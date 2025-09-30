@@ -93,5 +93,10 @@ This HTTP packet shows a 200 OK response from a Google server delivering an `OCS
 
     * Content and information services `(www.wikipedia.org, upload.wikimedia.org)`.
    
+## File:
+* **Link:** [Wireshark Scan Report](https://drive.google.com/file/d/1G4n4OL2pgAUQzhBPNUn2sNw4FpLuL666/view?usp=sharing)
+   
 ## Conclusion:
 This exercise demonstrated how Wireshark can capture live traffic, filter by protocol, and reveal details of communication across layers (Ethernet → IP → TCP → HTTP). The analysis confirmed that different protocols coexist in a session and that HTTP responses may contain important security controls like certificate validation and headers to mitigate attacks.
+
+
